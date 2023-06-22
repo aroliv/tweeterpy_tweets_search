@@ -18,3 +18,5 @@ No código, existem campos variáveis para que o usuário consiga filtrar as inf
 Quando o usuário clicar em "run" no notebook e alterar as variáveis necessárias, será salvo um arquivo csv contendo um ID do tweet, a data e horário da publicação e o texto do tweet. Está configurado para baixar um arquivo de nome "tweets.csv", mas o usuário também consegue alterar essa informação no notebook.
 
 ##### É importante frisar que esse csv vai estar na mesma pasta que o usuário deixou o notebook antes de abrí-lo (que, no geral, é em Downloads). Então é importante que se preste atenção em que diretório está o arquivo em python.
+
+##### Para verificar outras funcionalidades da API, acesse: https://github.com/iSarabjitDhiman/TweeterPy/tree/master
