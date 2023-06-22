@@ -19,4 +19,8 @@ Quando o usuário clicar em "run" no notebook e alterar as variáveis necessári
 
 ##### É importante frisar que esse csv vai estar na mesma pasta que o usuário deixou o notebook antes de abrí-lo (que, no geral, é em Downloads). Então é importante que se preste atenção em que diretório está o arquivo em python.
 
+### Após a extração
+
+O arquivo csv está configurado com o separador de "|". Após abrir o arquivo no Excel, selecione a primeira coluna inteira, clique na aba "Dados" e procure por "Texto para colunas". Selecione por "Delimitado", avance o processo e marque a caixa de seleção de "Outros", digitando a | no espaço em branco. Conclua o processo para que o texto esteja configurado em colunas, similar às tabelas.
+
 ##### Para verificar outras funcionalidades da API, acesse: https://github.com/iSarabjitDhiman/TweeterPy/tree/master
